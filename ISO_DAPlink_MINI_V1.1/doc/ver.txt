@@ -1,0 +1,17 @@
+
+开源项目源地址：https://gitee.com/sz-afa/ch32v305_daplink_cherry-usb
+参考开源项目地址：https://oshwhub.com/fanhuacloud/wch-linke
+
+//日期：20250308
+//版本号：
+//作者：
+//更新说明：
+1、将DIO管脚改成PC6；
+2、改进LED一下载就灭的bug；
+
+
+//日期：2025604
+//版本号：
+//作者：
+//更新说明：
+1、匹配了V1.1的硬件；
